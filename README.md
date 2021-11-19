@@ -1,5 +1,7 @@
 ### Hello World
 Hi, I'm [Ankit]() 👋
+I want to make difference and willing to work hard for skillful career rather than regular career that I can be satisfied for. I want to work hard, be responsible and improve my profession and skills with a reputed organization in an ethical way in order to accept challenges & I’ve completed my graduation from Electronics and Telecommunication year of 2017.
+<br>
 
 ![age](https://img.shields.io/badge/age-26-orange)
 ![focus](https://img.shields.io/badge/Focus-Artificial%20Intelligence-blue)
