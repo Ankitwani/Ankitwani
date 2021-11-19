@@ -16,6 +16,12 @@ I want to make difference and willing to work hard for skillful career rather th
 ![visitors](https://visitor-badge.herokuapp.com/badge?page_id=Ankitwani.github.profile)
 <br />
 
+- 🌱 I’m currently learning more about Tensorflow in depth
+     
+     <p align="center">
+  <img width="500" height="300" src="https://user-images.githubusercontent.com/55251741/126354943-9191dd62-9fd9-45c9-b5a4-a90ed3d9f602.gif">
+</p>
+
 🔭 **Reseach-wise, I mainly focus on**:
 
 - data mining topics related to scalability, reliability, and automation and
