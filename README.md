@@ -5,8 +5,13 @@ Hi, I'm [Ankit]() 👋
 ![focus](https://img.shields.io/badge/Focus-Artificial%20Intelligence-blue)
 ![living](https://img.shields.io/badge/Living-Pune-brightgreen)
 ![visitors](https://visitor-badge.herokuapp.com/badge?page_id=Ankitwani.github.profile)
-
 <br />
+
+🔭 **Reseach-wise, I mainly focus on**:
+
+- data mining topics related to scalability, reliability, and automation and
+- information systems questions related to interaction, trade-off, and cooperation between human and “AI”
+
 
 🛠 Tech Stack
 
