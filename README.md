@@ -2,6 +2,9 @@
 Hi, I'm [Ankit]() 👋
 I want to make difference and willing to work hard for skillful career rather than regular career that I can be satisfied for. I want to work hard, be responsible and improve my profession and skills with a reputed organization in an ethical way in order to accept challenges & I’ve completed my graduation from Electronics and Telecommunication year of 2017.
 <br>
+<p>
+  <h4 align="center"><b><i>"First, solve the problem. Then, write the code."</i></b></h4>
+</p>
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Ankitwani&show_icons=true&count_private=true&theme=dark"/>
