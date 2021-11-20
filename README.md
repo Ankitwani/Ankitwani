@@ -5,6 +5,9 @@ I want to make difference and willing to work hard for skillful career rather th
 <p>
   <h4 align="center"><b><i>"First, solve the problem. Then, write the code."</i></b></h4>
 </p>
+<h4 align="center">Visitor's count 👀</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{Ankitwani}/count.svg" alt="Ankitwani :: Visitor's Count" /></p>
+<br/>
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Ankitwani&show_icons=true&count_private=true&theme=dark"/>
