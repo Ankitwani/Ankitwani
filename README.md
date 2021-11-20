@@ -22,7 +22,15 @@ I want to make difference and willing to work hard for skillful career rather th
 - 🌱 I’m currently learning more about Tensorflow in depth
      
      <p align="center">
-  <img width="500" height="300" src="https://user-images.githubusercontent.com/55251741/126354943-9191dd62-9fd9-45c9-b5a4-a90ed3d9f602.gif">
+  <img height="180" src="https://user-images.githubusercontent.com/55251741/126354943-9191dd62-9fd9-45c9-b5a4-a90ed3d9f602.gif">
+</p>
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
 
 🔭 **Reseach-wise, I mainly focus on**:
