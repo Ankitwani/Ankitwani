@@ -9,7 +9,7 @@ I want to make difference and willing to work hard for skillful career rather th
 <p align="center"><img src="https://profile-counter.glitch.me/{Ankitwani}/count.svg" alt="Ankitwani :: Visitor's Count" /></p>
 <br/>
 
-⚙️ &nbsp;GitHub Analytics
+### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/AVS1508">
@@ -35,8 +35,7 @@ I want to make difference and willing to work hard for skillful career rather th
 - data mining topics related to scalability, reliability, and automation and
 - information systems questions related to interaction, trade-off, and cooperation between human and “AI”
 
-
-🛠 Tech Stack
+### 🛠 Tech Stack
 
 ![Java](http://img.shields.io/badge/-Java-e8892f?style=flat-square&logo=java&logoColor=white)
 ![Sql](http://img.shields.io/badge/-Sql-00758f?style=flat-square&logo=Mysql&logoColor=white)
