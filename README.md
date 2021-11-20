@@ -9,9 +9,13 @@ I want to make difference and willing to work hard for skillful career rather th
 <p align="center"><img src="https://profile-counter.glitch.me/{Ankitwani}/count.svg" alt="Ankitwani :: Visitor's Count" /></p>
 <br/>
 
+⚙️ &nbsp;GitHub Analytics
+
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Ankitwani&show_icons=true&count_private=true&theme=dark"/>
-    
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ankitwani&show_icons=true&count_private=true&theme=dark"/>
+  <img height="180em" src="https://user-images.githubusercontent.com/20955511/104234941-e293e600-545c-11eb-984c-0b5b265e4464.png"/>
+</a>
 </p>
 
 ![age](https://img.shields.io/badge/age-26-orange)
@@ -24,15 +28,6 @@ I want to make difference and willing to work hard for skillful career rather th
      
      <p align="center">
   <img height="180" src="https://user-images.githubusercontent.com/55251741/126354943-9191dd62-9fd9-45c9-b5a4-a90ed3d9f602.gif">
-</p>
-
-⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ankitwani&show_icons=true&count_private=true&theme=dark"/>
-  <img height="180em" src="https://user-images.githubusercontent.com/20955511/104234941-e293e600-545c-11eb-984c-0b5b265e4464.png"/>
-</a>
 </p>
 
 🔭 **Reseach-wise, I mainly focus on**:
